@@ -8,7 +8,7 @@ p{
 	text-align: center;
 	font-size: 60px;
 	padding-top:0px;
-	color: gold;
+	color: #D1A734;
 	position:absolute;
 	top:60vh;
 	left:0px;
@@ -21,13 +21,14 @@ h1{
 	text-align: center;
 	font-size: 60px;
 	padding-bottom:10px;
-	color: gold;
+	color: #D1A734;
 }
 .people1{
 	margin-top: 5vh;
 	width:100vw;
 	height:20vh;
-	background-color: gold;
+	background-color: #D1A734;
+
 }
 
 .people1 img {

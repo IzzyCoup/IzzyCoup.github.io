@@ -13,21 +13,19 @@ body
 		margin-right: auto;
 		margin-left: auto;
 		}
-
-.invite{
-
-max-height: 100%
-width: auto;
-left: 0px;
-right: 0px;
-}
+		.invite{
+		max-width: 100%;
+		height: auto;
+		left: 0px;
+		right: 0px;
+		}
 		
-.invite-images{
-	width: auto;
-	height: 100%;
-	left: 0px;
-	right: 0px;
-}
+		.invite-images{
+			width: 100%
+			height: auto;
+			left: 0px;
+			right: 0px;
+		}
     
 
 .topnav {
